@@ -5,7 +5,7 @@ If you'd like to create something to put here, please let us know!
 As a reminder, everything in this repository has it's own `LICENSE.md`, which you should read before using the media.
 
 ## Contents
-- [Offical Logo](https://github.com/LegoLib-Fabric/community/tree/main/media/legolib-logo)
+- [Official Logo](https://github.com/LegoLib-Fabric/community/tree/main/media/legolib-logo)
 
 ## Attribution and Licensing  
 This repository has been adapted from the FabricMC/community repository.  

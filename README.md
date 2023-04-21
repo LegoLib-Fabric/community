@@ -2,10 +2,10 @@
 This repository contains documentation, and media related to LegoLib.  
 
 ## Documentation  
-You will find documentation on LegoLib in the `/docs` directory.  
+You will find documentation on LegoLib in the [`/docs`](https://github.com/LegoLib-Fabric/community/tree/main/docs) directory.  
 
 ## Media  
-Licensed LegoLib related art or logos can be found in the `/media` directory.  
+Licensed LegoLib related art or logos can be found in the [`/media`](https://github.com/LegoLib-Fabric/community/tree/main/media) directory.  
 Please read the license for the individual media before using them.  
 If someone creates LegoLib related media and provides a license for it, we are happy to add it to the `/media` directory.  
 

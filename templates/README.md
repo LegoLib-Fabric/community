@@ -4,7 +4,7 @@ This directory contains LegoLib resource pack templates.
 ## Contents  
 - [entity_names](https://github.com/LegoLib-Fabric/community/tree/main/templates/entity_names/)  
 
-## Attribution and Licensing  
+## Licensing  
 These templates are are free to use and distribute without attribution.  
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)  
